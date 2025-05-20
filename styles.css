@@ -1,0 +1,52 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    /* background-color: rgb(18, 18, 18); */
+    /* color: white; */
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#inner-container {
+    /* border: 1px solid blue; */
+    width: 700px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+/* #links {
+    border: 1px solid blue;
+} */
+
+p, h1 {
+    font-family:Helvetica;
+}
+
+
+#name {
+    
+    font-size: x-large;
+    font-weight: bold;
+    font-stretch: wider;
+}
+
+#desc {
+    font-size: large;
+}
+
+#projects {
+    line-height: 1.4;
+}
+
+.project-ctx {
+    margin-bottom: 1px;
+}
